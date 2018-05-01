@@ -1,6 +1,8 @@
 function sumAll(arr) {
+
     var min = Math.min(...arr);
     var max = Math.max(...arr);
+
 
     var numbers = [];
 
